@@ -1,1 +1,0 @@
-NAME='candidate_ratio'
